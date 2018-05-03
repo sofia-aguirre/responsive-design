@@ -1,10 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Responsive Design (70 mins)
-
-| Timing | Type | Topic |
-| --- | --- | --- |
-| 10 mins | [Introduction](#introduction-rd) | Responsive Design |
-| 30 mins | [Demo/Codealong](#demo-rd) | Responsive Design |
-| 30 mins | [Independent Practice](#ind-practice) | Dream Team |
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Responsive Design
 
 ### LEARNING OBJECTIVES
 *After this lesson, you will be able to:*
@@ -19,7 +13,7 @@
 ***
 
 <a name="introduction-rd"></a>
-## Introduction: Responsive Design (10 mins)
+## Introduction: Responsive Design
 
 Responsive Design is the strategy of making a site that "responds" to the browser and device on which it's being displayed. This means a website is usable, readable, and looks great on any and all screen sizes.
 
@@ -88,7 +82,7 @@ Here's an example of a site that hasn't overridden the viewport: [http://www.tcg
 ***
 
 <a name="demo-rd"></a>
-## Demo / Codealong: Responsive Design (30 mins)
+## Demo / Codealong: Responsive Design 
 
 So how can we make more impactful changes to our site using media queries? The `flexbox` approach to layout eliminated the need to use media queries to adjust the grid on your page. But what if you're working on a project with existing code using `float`? And what about adjusting other elements on the page using media queries? It's important to understand all methods when approaching responsive design.
 
@@ -124,7 +118,7 @@ You can access all of the code [here](codealong/albums).
 ***
 
 <a name="ind-practice"></a>
-## Independent Practice: Dream Team (30 minutes)
+## Independent Practice: Dream Team 
 Take a look at the following mockup. 
 
 Choose a Dream Team of 3-4 fellow students and work together to wireframe out what the site should look like when it's responsive.
